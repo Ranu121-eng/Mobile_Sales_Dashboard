@@ -65,7 +65,7 @@ The objective of this project is to analyze mobile sales data and create an inte
    - Compares current sales with previous year sales.
    - Identifies growth patterns and business performance over different years and months.
 <img width="841" height="468" alt="Dashboard2" src="https://github.com/user-attachments/assets/85dc90dd-108d-45f6-8d14-1b273393eefd" />
-## Project Insights
+## Project Insights <br>
 Total sales reached approximately 769M with around 19K products sold.
 UPI, Debit Card, and Credit Card are the major payment methods used by customers.
 Certain cities contribute significantly higher sales compared to others.
