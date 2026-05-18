@@ -66,14 +66,14 @@ The objective of this project is to analyze mobile sales data and create an inte
    - Identifies growth patterns and business performance over different years and months.
 <img width="841" height="468" alt="Dashboard2" src="https://github.com/user-attachments/assets/85dc90dd-108d-45f6-8d14-1b273393eefd" />
 ## Project Insights <br>
-Total sales reached approximately 769M with around 19K products sold.
-UPI, Debit Card, and Credit Card are the major payment methods used by customers.
-Certain cities contribute significantly higher sales compared to others.
-Monthly sales trends show fluctuations with peak performance in selected months.
-Customer ratings indicate that most customers provided good ratings.
-Some mobile models generated higher sales compared to others.
-Sales performance in 2023 showed strong growth compared to previous years.
-Month-to-date sales analysis helps track consistent business growth throughout the month.
+- Total sales reached approximately 769M with around 19K products sold.
+- UPI, Debit Card, and Credit Card are the major payment methods used by customers.
+- Certain cities contribute significantly higher sales compared to others.
+- Monthly sales trends show fluctuations with peak performance in selected months.
+- Customer ratings indicate that most customers provided good ratings.
+- Some mobile models generated higher sales compared to others.
+- Sales performance in 2023 showed strong growth compared to previous years.
+- Month-to-date sales analysis helps track consistent business growth throughout the month.
 ## Final Conclusion
 The Mobile Sales Dashboard provides valuable insights into sales performance, customer behavior, and market trends. Businesses can use this dashboard to identify top-performing products, preferred payment methods, high-revenue cities, and yearly growth opportunities. By leveraging these insights, companies can improve marketing strategies, optimize inventory management, and enhance customer satisfaction to drive future sales growth.
 
