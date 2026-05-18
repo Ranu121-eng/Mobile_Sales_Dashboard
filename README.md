@@ -31,3 +31,23 @@ The objective of this project is to analyze mobile sales data and create an inte
 <a href="https://github.com/Ranu121-eng/Mobile_Sales_Dashboard/blob/main/Dashboard.PNG">Main Dashboard</a> <br>
 <a href="https://github.com/Ranu121-eng/Mobile_Sales_Dashboard/blob/main/Dashboard1.PNG">MTD Report</a> <br>
 <a href="https://github.com/Ranu121-eng/Mobile_Sales_Dashboard/blob/main/Dashboard2.PNG">Same Period Last Year Analysis</a>
+## Process
+- Collected and imported mobile sales dataset into Power BI.
+- Verified dataset for missing values, duplicates, and inconsistencies.
+- Performed data cleaning and transformation using Power Query.
+- Created relationships among tables for proper data modeling.
+- Used DAX measures to calculate KPIs such as:
+   - Total Sales
+   - Average Price
+   - Transactions
+   - Total Quantity
+   - Same Period Last Year Sales
+- Developed interactive visualizations including:
+   - Line Charts
+   - Bar Charts
+   - Pie Charts
+   - Maps
+   - KPI Cards
+   - Tables
+- Added slicers and filters to make the dashboard dynamic and user-friendly.
+- Designed the dashboard layout for better visualization and business insights.
