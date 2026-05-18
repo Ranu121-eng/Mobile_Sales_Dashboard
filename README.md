@@ -56,12 +56,15 @@ The objective of this project is to analyze mobile sales data and create an inte
    - Displays Total Sales, Average Price, Transactions, and Total Quantity.
    - Shows city-wise sales distribution and monthly quantity trends.
    - Includes customer ratings and payment method analysis.
+<img width="897" height="466" alt="Dashboard" src="https://github.com/user-attachments/assets/7fb764cf-d5e3-4016-9a63-3128b53a3a0f" /> <br>
 - MTD (Month-to-Date) Report
    - Provides daily sales growth tracking throughout the month.
    - Helps monitor sales performance and trends in real-time.
+<img width="872" height="468" alt="Dashboard1" src="https://github.com/user-attachments/assets/75bd5d1f-cdd6-41d8-a20a-7b9f65c3c0a6" /> <br>
 -  Same Period Last Year Analysis
    - Compares current sales with previous year sales.
    - Identifies growth patterns and business performance over different years and months.
+<img width="841" height="468" alt="Dashboard2" src="https://github.com/user-attachments/assets/85dc90dd-108d-45f6-8d14-1b273393eefd" />
 ## Project Insights
 Total sales reached approximately 769M with around 19K products sold.
 UPI, Debit Card, and Credit Card are the major payment methods used by customers.
@@ -81,3 +84,5 @@ The Mobile Sales Dashboard provides valuable insights into sales performance, cu
   - Data Cleaning
   - Data Visualization
   - Dashboard Interaction
+
+
