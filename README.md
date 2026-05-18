@@ -16,6 +16,17 @@ The objective of this project is to analyze mobile sales data and create an inte
 - Which months show maximum sales growth?
 - What are customer ratings and satisfaction levels?
 - Which day of the week generates maximum sales?
+## Dashboard Features
+- Interactive slicers for:
+ Mobile Model
+ Payment Method
+ Year, Quarter, Month, and Day
+- Dynamic charts and visualizations
+- Year-wise and month-wise comparison analysis
+- City-wise sales mapping
+- Customer rating analysis
+- Sales trend visualization
+- Same Period Last Year (SPLY) comparison
 ## Dashboard Interaction
 <a href="https://github.com/Ranu121-eng/Mobile_Sales_Dashboard/blob/main/Dashboard.PNG">Main Dashboard</a> <br>
 <a href="https://github.com/Ranu121-eng/Mobile_Sales_Dashboard/blob/main/Dashboard1.PNG">MTD Report</a> <br>
