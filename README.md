@@ -51,3 +51,14 @@ The objective of this project is to analyze mobile sales data and create an inte
    - Tables
 - Added slicers and filters to make the dashboard dynamic and user-friendly.
 - Designed the dashboard layout for better visualization and business insights.
+## Dashboard
+- Main Dashboard
+   - Displays Total Sales, Average Price, Transactions, and Total Quantity.
+   - Shows city-wise sales distribution and monthly quantity trends.
+   - Includes customer ratings and payment method analysis.
+- MTD (Month-to-Date) Report
+   - Provides daily sales growth tracking throughout the month.
+   - Helps monitor sales performance and trends in real-time.
+-  Same Period Last Year Analysis
+   - Compares current sales with previous year sales.
+   - Identifies growth patterns and business performance over different years and months.
