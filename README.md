@@ -18,9 +18,9 @@ The objective of this project is to analyze mobile sales data and create an inte
 - Which day of the week generates maximum sales?
 ## Dashboard Features
 - Interactive slicers for:
- Mobile Model
- Payment Method
- Year, Quarter, Month, and Day
+   - Mobile Model
+   - Payment Method
+   - Year, Quarter, Month, and Day
 - Dynamic charts and visualizations
 - Year-wise and month-wise comparison analysis
 - City-wise sales mapping
