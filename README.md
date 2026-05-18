@@ -18,3 +18,4 @@ The objective of this project is to analyze mobile sales data and create an inte
 - Which day of the week generates maximum sales?
 ## Dashboard Interaction
 <a href="https://github.com/Ranu121-eng/Mobile_Sales_Dashboard/blob/main/Dashboard.PNG">Main Dashboard</a>
+<a href="https://github.com/Ranu121-eng/Mobile_Sales_Dashboard/blob/main/Dashboard1.PNG">MTD Report</a>
