@@ -18,7 +18,7 @@ Businesses often struggle to answer important questions such as:
 - Which sales trends can support better business planning?
 
 This dashboard addresses these business questions through interactive visualizations and KPI tracking.
-# 🎯 Business Objectives
+## 🎯 Business Objectives
 The project aims to:
 - Monitor overall sales performance.
 - Identify top-performing mobile models.
